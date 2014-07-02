@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jory/hapiness",
   "dependencies": {
+    "handlebars": "^2.0.0-alpha.4",
     "hapi": "^6.0.2"
   }
 }
