@@ -1,0 +1,22 @@
+{
+  "name": "hapiness",
+  "version": "0.0.0",
+  "description": "Follow along as I go through makemehapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jory/hapiness"
+  },
+  "author": "jory",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jory/hapiness/issues"
+  },
+  "homepage": "https://github.com/jory/hapiness",
+  "dependencies": {
+    "hapi": "^6.0.2"
+  }
+}
